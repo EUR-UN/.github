@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🌐 EUR-UN Website
+    url: https://eurun.eu.org
+    about: Visit our official website for more information.
+  - name: 📧 Email Support
+    url: mailto:info@eurun.eu.org
+    about: Contact us directly for private or sensitive inquiries.
+  - name: 🔐 Security Vulnerability
+    url: https://github.com/EUR-UN/.github/blob/master/SECURITY.md
+    about: Please report security vulnerabilities via email — NOT via public issues.
