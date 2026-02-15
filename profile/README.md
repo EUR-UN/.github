@@ -8,11 +8,13 @@
 
 ### Open-Source Infrastructure · Automation · Security
 
+<!-- HERO_BADGES_START -->
 [![Base](https://img.shields.io/badge/Base-Europe_🇪🇺-003399?style=flat-square)](https://eurun.eu.org)
 [![Website](https://img.shields.io/badge/Web-eurun.eu.org-0969da?style=flat-square&logo=google-chrome&logoColor=white)](https://eurun.eu.org)
 [![Email](https://img.shields.io/badge/Contact-info%40eurun.eu.org-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@eurun.eu.org)
 [![Repos](https://img.shields.io/badge/Repos-15-181717?style=flat-square&logo=github)](https://github.com/orgs/EUR-UN/repositories)
-[![License](https://img.shields.io/badge/Open_Source-MIT_|_GPL--3.0-3da639?style=flat-square&logo=open-source-initiative&logoColor=white)](#-engineering-principles)
+[![License](https://img.shields.io/badge/Open_Source-GPL--3.0_|_MIT-3da639?style=flat-square&logo=open-source-initiative&logoColor=white)](#-engineering-principles)
+<!-- HERO_BADGES_END -->
 
 </div>
 
@@ -24,14 +26,16 @@
 
 Our work spans from low-level encryption middleware to satellite-imagery-driven data science, unified by a single philosophy: **ship reliable, well-documented software that solves real-world problems**.
 
+<!-- ABOUT_STATS_START -->
 <table>
 <tr>
 <td><b>🔧 15</b> Public Repositories</td>
-<td><b>🐍 Python</b> · <b>Go</b> · <b>TypeScript</b> · <b>Shell</b> · <b>VHDL</b></td>
-<td><b>🌍 67+</b> Community Forks</td>
-<td><b>📜 MIT / GPL-3.0</b> Licensed</td>
+<td><b>🐍</b> <b>Python</b> · <b>TypeScript</b> · <b>VHDL</b> · <b>Go</b> · <b>TeX</b></td>
+<td><b>🌍 2</b> Community Forks</td>
+<td><b>📜 GPL-3.0 / MIT</b> Licensed</td>
 </tr>
 </table>
+<!-- ABOUT_STATS_END -->
 
 ---
 
@@ -97,17 +101,22 @@ Our work spans from low-level encryption middleware to satellite-imagery-driven 
 
 ## 📈 Tech Stack at a Glance
 
+<!-- TECH_STACK_START -->
 ```text
-Languages         ██████████████████░░  Python (47%)
-                  ████░░░░░░░░░░░░░░░░  Go (13%)
-                  ████░░░░░░░░░░░░░░░░  Shell (13%)
-                  ███░░░░░░░░░░░░░░░░░  TypeScript (7%)
-                  ███░░░░░░░░░░░░░░░░░  VHDL / HTML / Jupyter (20%)
+  Languages         ███████████░░░░░░░░░  Python (55.1%)
+                    █████░░░░░░░░░░░░░░░  TypeScript (23.5%)
+                    █░░░░░░░░░░░░░░░░░░░  VHDL (6.9%)
+                    █░░░░░░░░░░░░░░░░░░░  Go (4.5%)
+                    █░░░░░░░░░░░░░░░░░░░  TeX (3.8%)
+                    ░░░░░░░░░░░░░░░░░░░░  JavaScript (1.6%)
+                    ░░░░░░░░░░░░░░░░░░░░  Shell (1.2%)
+                    ░░░░░░░░░░░░░░░░░░░░  Verilog (1.2%)
 
-Domains           Network Infra · Cybersecurity · Automation · IoT · Data Science
-Protocols         MQTT · SSH · TLS/SSL · HTTP/CDN · REST API
-Platforms         Linux · macOS · Home Assistant · ERPNext · Jupyter
+  Domains           Network Infra · Cybersecurity · Automation · IoT · Data Science
+  Protocols         MQTT · SSH · TLS/SSL · HTTP/CDN · REST API
+  Platforms         Linux · macOS · Home Assistant · ERPNext · Jupyter
 ```
+<!-- TECH_STACK_END -->
 
 ---
 
@@ -139,18 +148,24 @@ We welcome contributions from engineers worldwide. Before contributing, please r
 
 ## 📊 Organization Statistics
 
+<!-- ORG_STATS_START -->
 <div align="center">
 
 | Metric | Value |
 |:-------|:------|
-| Public Repositories | **15** |
-| Community Forks | **67+** |
-| Primary Languages | Python · Go · TypeScript · Shell |
-| Licenses | MIT · GPL-3.0 |
+| Public Repositories | **15** (2 source · 13 forked) |
+| Total Stars | **0** |
+| Community Forks | **2** |
+| Open Issues | **1** |
+| Primary Languages | Python · TypeScript · VHDL · Go · TeX |
+| Licenses | GPL-3.0 · MIT |
 | Base | Europe 🇪🇺 · Globally Distributed |
 | Website | [eurun.eu.org](https://eurun.eu.org) |
 
+<sub>Auto-updated by CI · Last run: 2026-02-15 01:23 UTC</sub>
+
 </div>
+<!-- ORG_STATS_END -->
 
 ---
 
