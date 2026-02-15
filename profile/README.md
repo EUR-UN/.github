@@ -42,7 +42,7 @@
 
 ### 🤝 Strategic Partnerships
 We collaborate with global entities to solve "impossible" problems.
--   [**Security Policy**](https://github.com/EUR-UN/.github/blob/main/SECURITY.md) (Coming Soon)
--   [**Engineering Standards**](https://github.com/EUR-UN/.github/blob/main/CONTRIBUTING.md)
+-   [**Security Policy**](https://github.com/EUR-UN/.github/blob/master/SECURITY.md) (Coming Soon)
+-   [**Engineering Standards**](https://github.com/EUR-UN/.github/blob/master/CONTRIBUTING.md)
 
 > *"Building the future, one commit at a time."*
