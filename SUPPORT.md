@@ -74,8 +74,8 @@ We welcome issues and discussions in:
 
 - 🇬🇧 **English**
 - 🇨🇳 **中文 (Chinese)**
-- �🇷 **Français (French)**
-- �🇨🇿 **Čeština (Czech)**
+- 🇫🇷 **Français (French)**
+- 🇨🇿 **Čeština (Czech)**
 
 ---
 
