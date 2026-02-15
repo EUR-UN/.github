@@ -173,10 +173,11 @@ Please include:
 
 ## Language & Documentation
 
-We maintain **bilingual documentation** (English / 中文) across most projects. When contributing documentation:
+We maintain **multilingual documentation** (English / 中文 / Français) across most projects. When contributing documentation:
 
 - Write the primary version in **English**.
-- Add Chinese translations where the project already has bilingual docs.
+- Add **Chinese** translations where the project already has bilingual docs.
+- Add **French** translations where applicable.
 - For Czech-specific tools, include **Czech** terminology where appropriate.
 
 ---

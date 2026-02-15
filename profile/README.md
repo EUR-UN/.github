@@ -20,7 +20,7 @@
 
 ## 🏛️ About
 
-**EUR-UN** is an independent, open-source engineering collective based in **Europe** with a globally distributed contributor base. We build practical tools in the domains of **network infrastructure**, **cybersecurity**, **intelligent automation**, and **IoT** — with a strong commitment to multilingual accessibility (EN / 中文 / CZ) and open governance.
+**EUR-UN** is an independent, open-source engineering collective based in **Europe** with a globally distributed contributor base. We build practical tools in the domains of **network infrastructure**, **cybersecurity**, **intelligent automation**, and **IoT** — with a strong commitment to multilingual accessibility (EN / 中文 / FR / CZ) and open governance.
 
 Our work spans from low-level encryption middleware to satellite-imagery-driven data science, unified by a single philosophy: **ship reliable, well-documented software that solves real-world problems**.
 
@@ -116,7 +116,7 @@ Platforms         Linux · macOS · Home Assistant · ERPNext · Jupyter
 | Principle | Practice |
 |:----------|:---------|
 | **Accuracy over hype** | Every README describes what the code *actually does* — no inflated claims. |
-| **Multilingual by default** | Documentation ships in EN / 中文, with CZ where relevant to Czech tools. |
+| **Multilingual by default** | Documentation ships in EN / 中文 / FR, with CZ where relevant to Czech tools. |
 | **Open-source first** | We default to MIT; use GPL-3.0 only when copyleft propagation is intentional. |
 | **Production-grade** | CI, tests, and structured error handling are expected — not optional. |
 | **Modular architecture** | Projects are designed for extensibility — plug in, don't rewrite. |
