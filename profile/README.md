@@ -30,7 +30,7 @@ Our work spans from low-level encryption middleware to satellite-imagery-driven 
 <table>
 <tr>
 <td><b>🔧 15</b> Public Repositories</td>
-<td><b>🐍</b> <b>Python</b> · <b>TypeScript</b> · <b>VHDL</b> · <b>Go</b> · <b>TeX</b></td>
+<td><b>🐍</b> <b>Python</b> · <b>VHDL</b> · <b>TypeScript</b> · <b>TeX</b> · <b>Verilog</b></td>
 <td><b>🌍 2</b> Community Forks</td>
 <td><b>📜 GPL-3.0 / MIT</b> Licensed</td>
 </tr>
@@ -103,14 +103,14 @@ Our work spans from low-level encryption middleware to satellite-imagery-driven 
 
 <!-- TECH_STACK_START -->
 ```text
-  Languages         ███████████░░░░░░░░░  Python (55.4%)
-                    █████░░░░░░░░░░░░░░░  TypeScript (23.3%)
-                    █░░░░░░░░░░░░░░░░░░░  VHDL (6.9%)
-                    █░░░░░░░░░░░░░░░░░░░  Go (4.4%)
-                    █░░░░░░░░░░░░░░░░░░░  TeX (3.7%)
-                    ░░░░░░░░░░░░░░░░░░░░  JavaScript (1.6%)
-                    ░░░░░░░░░░░░░░░░░░░░  Shell (1.2%)
-                    ░░░░░░░░░░░░░░░░░░░░  Verilog (1.2%)
+  Languages         ████████░░░░░░░░░░░░  Python (38.9%)
+                    ████░░░░░░░░░░░░░░░░  VHDL (20.0%)
+                    ███░░░░░░░░░░░░░░░░░  TypeScript (16.4%)
+                    ██░░░░░░░░░░░░░░░░░░  TeX (11.1%)
+                    █░░░░░░░░░░░░░░░░░░░  Verilog (5.5%)
+                    █░░░░░░░░░░░░░░░░░░░  Go (3.1%)
+                    ░░░░░░░░░░░░░░░░░░░░  Tcl (2.0%)
+                    ░░░░░░░░░░░░░░░░░░░░  JavaScript (1.1%)
 
   Domains           Network Infra · Cybersecurity · Automation · IoT · Data Science
   Protocols         MQTT · SSH · TLS/SSL · HTTP/CDN · REST API
@@ -157,12 +157,12 @@ We welcome contributions from engineers worldwide. Before contributing, please r
 | Total Stars | **0** |
 | Community Forks | **2** |
 | Open Issues | **0** |
-| Primary Languages | Python · TypeScript · VHDL · Go · TeX |
+| Primary Languages | Python · VHDL · TypeScript · TeX · Verilog |
 | Licenses | GPL-3.0 · MIT |
 | Base | Europe 🇪🇺 · Globally Distributed |
 | Website | [eurun.eu.org](https://eurun.eu.org) |
 
-<sub>Auto-updated by CI · Last run: 2026-02-28 18:18 UTC</sub>
+<sub>Auto-updated by CI · Last run: 2026-03-01 06:44 UTC</sub>
 
 </div>
 <!-- ORG_STATS_END -->
