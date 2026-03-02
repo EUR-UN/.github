@@ -103,13 +103,13 @@ Our work spans from low-level encryption middleware to satellite-imagery-driven 
 
 <!-- TECH_STACK_START -->
 ```text
-  Languages         ████████░░░░░░░░░░░░  Python (38.9%)
-                    ████░░░░░░░░░░░░░░░░  VHDL (20.0%)
-                    ███░░░░░░░░░░░░░░░░░  TypeScript (16.4%)
-                    ██░░░░░░░░░░░░░░░░░░  TeX (11.1%)
-                    █░░░░░░░░░░░░░░░░░░░  Verilog (5.5%)
-                    █░░░░░░░░░░░░░░░░░░░  Go (3.1%)
-                    ░░░░░░░░░░░░░░░░░░░░  Tcl (2.0%)
+  Languages         ████████░░░░░░░░░░░░  Python (40.4%)
+                    ████░░░░░░░░░░░░░░░░  VHDL (19.5%)
+                    ███░░░░░░░░░░░░░░░░░  TypeScript (15.9%)
+                    ██░░░░░░░░░░░░░░░░░░  TeX (10.8%)
+                    █░░░░░░░░░░░░░░░░░░░  Verilog (5.4%)
+                    █░░░░░░░░░░░░░░░░░░░  Go (3.0%)
+                    ░░░░░░░░░░░░░░░░░░░░  Tcl (1.9%)
                     ░░░░░░░░░░░░░░░░░░░░  JavaScript (1.1%)
 
   Domains           Network Infra · Cybersecurity · Automation · IoT · Data Science
@@ -162,7 +162,7 @@ We welcome contributions from engineers worldwide. Before contributing, please r
 | Base | Europe 🇪🇺 · Globally Distributed |
 | Website | [eurun.eu.org](https://eurun.eu.org) |
 
-<sub>Auto-updated by CI · Last run: 2026-03-01 18:19 UTC</sub>
+<sub>Auto-updated by CI · Last run: 2026-03-02 06:57 UTC</sub>
 
 </div>
 <!-- ORG_STATS_END -->
