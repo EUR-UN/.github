@@ -103,10 +103,10 @@ Our work spans from low-level encryption middleware to satellite-imagery-driven 
 
 <!-- TECH_STACK_START -->
 ```text
-  Languages         ████████░░░░░░░░░░░░  Python (40.4%)
-                    ████░░░░░░░░░░░░░░░░  VHDL (19.5%)
-                    ███░░░░░░░░░░░░░░░░░  TypeScript (15.9%)
-                    ██░░░░░░░░░░░░░░░░░░  TeX (10.8%)
+  Languages         ████████░░░░░░░░░░░░  Python (40.8%)
+                    ████░░░░░░░░░░░░░░░░  VHDL (19.4%)
+                    ███░░░░░░░░░░░░░░░░░  TypeScript (15.8%)
+                    ██░░░░░░░░░░░░░░░░░░  TeX (10.7%)
                     █░░░░░░░░░░░░░░░░░░░  Verilog (5.4%)
                     █░░░░░░░░░░░░░░░░░░░  Go (3.0%)
                     ░░░░░░░░░░░░░░░░░░░░  Tcl (1.9%)
@@ -162,7 +162,7 @@ We welcome contributions from engineers worldwide. Before contributing, please r
 | Base | Europe 🇪🇺 · Globally Distributed |
 | Website | [eurun.eu.org](https://eurun.eu.org) |
 
-<sub>Auto-updated by CI · Last run: 2026-03-10 06:49 UTC</sub>
+<sub>Auto-updated by CI · Last run: 2026-03-10 18:35 UTC</sub>
 
 </div>
 <!-- ORG_STATS_END -->
