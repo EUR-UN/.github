@@ -103,13 +103,13 @@ Our work spans from low-level encryption middleware to satellite-imagery-driven 
 
 <!-- TECH_STACK_START -->
 ```text
-  Languages         ████████░░░░░░░░░░░░  Python (40.8%)
-                    ████░░░░░░░░░░░░░░░░  VHDL (19.4%)
-                    ███░░░░░░░░░░░░░░░░░  TypeScript (15.8%)
-                    ██░░░░░░░░░░░░░░░░░░  TeX (10.7%)
-                    █░░░░░░░░░░░░░░░░░░░  Verilog (5.4%)
-                    █░░░░░░░░░░░░░░░░░░░  Go (3.0%)
-                    ░░░░░░░░░░░░░░░░░░░░  Tcl (1.9%)
+  Languages         █████████░░░░░░░░░░░  Python (43.7%)
+                    ████░░░░░░░░░░░░░░░░  VHDL (18.4%)
+                    ███░░░░░░░░░░░░░░░░░  TypeScript (15.1%)
+                    ██░░░░░░░░░░░░░░░░░░  TeX (10.2%)
+                    █░░░░░░░░░░░░░░░░░░░  Verilog (5.1%)
+                    █░░░░░░░░░░░░░░░░░░░  Go (2.9%)
+                    ░░░░░░░░░░░░░░░░░░░░  Tcl (1.8%)
                     ░░░░░░░░░░░░░░░░░░░░  JavaScript (1.1%)
 
   Domains           Network Infra · Cybersecurity · Automation · IoT · Data Science
@@ -156,13 +156,13 @@ We welcome contributions from engineers worldwide. Before contributing, please r
 | Public Repositories | **15** (2 source · 13 forked) |
 | Total Stars | **0** |
 | Community Forks | **2** |
-| Open Issues | **3** |
+| Open Issues | **0** |
 | Primary Languages | Python · VHDL · TypeScript · TeX · Verilog |
 | Licenses | GPL-3.0 · MIT |
 | Base | Europe 🇪🇺 · Globally Distributed |
 | Website | [eurun.eu.org](https://eurun.eu.org) |
 
-<sub>Auto-updated by CI · Last run: 2026-03-25 07:01 UTC</sub>
+<sub>Auto-updated by CI · Last run: 2026-03-25 18:42 UTC</sub>
 
 </div>
 <!-- ORG_STATS_END -->
