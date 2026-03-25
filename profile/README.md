@@ -156,13 +156,13 @@ We welcome contributions from engineers worldwide. Before contributing, please r
 | Public Repositories | **15** (2 source · 13 forked) |
 | Total Stars | **0** |
 | Community Forks | **2** |
-| Open Issues | **2** |
+| Open Issues | **3** |
 | Primary Languages | Python · VHDL · TypeScript · TeX · Verilog |
 | Licenses | GPL-3.0 · MIT |
 | Base | Europe 🇪🇺 · Globally Distributed |
 | Website | [eurun.eu.org](https://eurun.eu.org) |
 
-<sub>Auto-updated by CI · Last run: 2026-03-24 18:48 UTC</sub>
+<sub>Auto-updated by CI · Last run: 2026-03-25 07:01 UTC</sub>
 
 </div>
 <!-- ORG_STATS_END -->
